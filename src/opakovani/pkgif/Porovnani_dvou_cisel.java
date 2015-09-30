@@ -3,7 +3,7 @@ package opakovani.pkgif;
 
 import java.util.Scanner;
 
-public class OpakovaniIf {
+public class Porovnani_dvou_cisel {
     private static Object vstup;
 
     public static void main(String[] args) {
